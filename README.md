@@ -26,8 +26,6 @@
 ### 🌀 Round Robin Simulation
 ![Round Robin](images/RoundRobin.png)
 
-## 📷 Screenshots
-
 ### 🖥️ Kill Process
 ![Dashboard](images/kill_process.png)
 
